@@ -26,7 +26,7 @@
    `(mode-line-inactive ((t (:box nil :foreground ,light-gray :background ,dark-gray))))
    `(mode-line ((t (:box nil :foreground ,background :background ,gray-blue))))
    `(fringe ((t (:background ,background))))
-   `(region ((t (:foreground ,light-slate :background ,dark-slate))))
+   `(region ((t (:foreground ,light-slate :background ,dirty-white))))
    `(minibuffer-prompt ((default (:foreground ,gray-blue))))
 
    `(font-lock-builtin-face ((t (:foreground ,lighter-orange))))
